@@ -11,7 +11,7 @@ public class CodeAdd {
 	private WebElement codeadd;
 
 	@FindBy(xpath="//button[@type='buttons']")
-	private WebElement continues;
+	private WebElement continue;
 
 
 	@FindBy(xpath="//a[@role='button']")
